@@ -1,0 +1,14 @@
+net.sourceforge.wurfl.core
+net.sourceforge.wurfl.core.cache
+net.sourceforge.wurfl.core.exc
+net.sourceforge.wurfl.core.matchers
+net.sourceforge.wurfl.core.request
+net.sourceforge.wurfl.core.request.normalizer
+net.sourceforge.wurfl.core.request.normalizer.generic
+net.sourceforge.wurfl.core.request.normalizer.specific
+net.sourceforge.wurfl.core.resource
+net.sourceforge.wurfl.core.resource.exc
+net.sourceforge.wurfl.core.strategy
+net.sourceforge.wurfl.core.utils
+net.sourceforge.wurfl.core.web
+net.sourceforge.wurfl.core.web.introspector
